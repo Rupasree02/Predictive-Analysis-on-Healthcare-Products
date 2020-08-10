@@ -55,3 +55,67 @@ Tranform data accordingly to its type.
 ### Model Data
 
 In the Relationship tab, you can see the relationship between data sources. When you add multiple data sources to Power BI visualization, the tool automatically tries to detect the relationship between the columns. When you navigate to the Relationship tab, you can view the relationship. You can also create a Relationship between the columns using Create Relationships option.<br/>
+
+<p align="center">
+  <img src="https://user-images.githubusercontent.com/56398068/89784477-5e98a380-db36-11ea-835d-2019e37fc669.png" width="550">
+</p>
+
+
+### Dashboard Analytics
+
+<p align="center">
+  <img src="https://user-images.githubusercontent.com/56398068/89784703-bafbc300-db36-11ea-851c-b9851a8d49ef.png" width="550">
+</p>
+
+
+### Geographical Demand Distribution
+
+<p align="center">
+  <img src="https://user-images.githubusercontent.com/56398068/89784895-1b8b0000-db37-11ea-99a7-05583adf3b50.png" width="550">
+</p>
+
+
+### Sales History Distribution
+
+<p align="center">
+  <img src="https://user-images.githubusercontent.com/56398068/89784980-3d848280-db37-11ea-8ab8-117be9c58f36.png" width="550">
+</p>
+
+
+### Autocorrelations in Time Series Data
+
+<p align="center">
+  <img src="https://user-images.githubusercontent.com/56398068/89785087-702e7b00-db37-11ea-845c-5e28b677a065.png" width="550">
+</p>
+
+
+### Sales Forecast
+
+<p align="center">
+  <img src="https://user-images.githubusercontent.com/56398068/89785142-8a685900-db37-11ea-86ea-86a705811658.png" width="550">
+</p>
+
+
+### Benefits of Forecasting Healthcare Products Sales Data
+
+- Calculate Supply demand based on Customer Demand (Consensus Demand ).
+- Reduce Supply - Manufacturing Costs based on Customer Demand.
+- Maintain Inventory based on Customer Demand to maintain safety stock based on demand prediction.
+- Can create constrained demand plan based on forecast demand.
+- Can plan the manufacturing health care products & external procurement based on country/division/region demand and Plan the resources availability.
+- Finance point of you,  can prepare budget Plan based on demand & supply.
+- Analytics & Dashboards will help to understand the business strategy of sales & marketing  and  to take right decisions easily to avoid over budgets and improve company revenue.
+
+
+
+
+
+
+
+
+
+
+
+
+
+
