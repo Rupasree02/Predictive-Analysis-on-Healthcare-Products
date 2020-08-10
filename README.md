@@ -41,7 +41,8 @@ For Python & R Code refer Code file.
 
 ### Import/Load & Transform Data
 
-Import following data to Microsoft Power BI Desktop from the Data file.<br/>
+To add a data source, go to the Get data option. Then, select the data source you want to connect and click the Connect button.<br/>
+Connect to following data from the Data file.<br/>
 
 + Sales_History
 + Customer_Master_Data
@@ -53,13 +54,4 @@ Tranform data accordingly to its type.
 
 ### Model Data
 
-
-
-
-
-
-
-
-
-
-
+In the Relationship tab, you can see the relationship between data sources. When you add multiple data sources to Power BI visualization, the tool automatically tries to detect the relationship between the columns. When you navigate to the Relationship tab, you can view the relationship. You can also create a Relationship between the columns using Create Relationships option.<br/>
