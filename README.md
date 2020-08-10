@@ -56,7 +56,7 @@ Tranform data accordingly to its type.
 
 In the Relationship tab, you can see the relationship between data sources. When you add multiple data sources to Power BI visualization, the tool automatically tries to detect the relationship between the columns. When you navigate to the Relationship tab, you can view the relationship. You can also create a Relationship between the columns using Create Relationships option.<br/>
 
-Here the relationship between tables is called 'Star Schema'. Star schema is a mature modeling approach widely adopted by relational data warehouses. It requires modelers to classify their model tables as either dimension or fact. In this case the fact table is the Actual Sales dats & other tables are its dimension tables (Customer, Product & Location).<br/>
+Here the relationship between tables is called 'Star Schema'. Star schema is a mature modeling approach widely adopted by relational data warehouses. It is classified into fact table & dimension tables. In this case the fact table is the Actual Sales dats & other tables are its dimension tables (Customer, Product & Location).<br/>
 
 <p align="center">
   <img src="https://user-images.githubusercontent.com/56398068/89784477-5e98a380-db36-11ea-835d-2019e37fc669.png" width="550">
