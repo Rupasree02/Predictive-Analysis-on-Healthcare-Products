@@ -16,5 +16,6 @@ The aim of the project is to forecast sales of healthcare products from history 
 - Power BI is a business analytics service by Microsoft. 
 - It aims to provide interactive visualizations and business intelligence capabilities with an interface simple enough for end users to create their own reports and dashboards.
 
-
-![Advantages of using Power BI](https://www.saviantconsulting.com/images/blog/8-major-benefits-of-microsoft-power-bi-infographic.jpg)
+<p align="center">
+  <img src="https://www.saviantconsulting.com/images/blog/8-major-benefits-of-microsoft-power-bi-infographic.jpg" width="400">
+</p>
