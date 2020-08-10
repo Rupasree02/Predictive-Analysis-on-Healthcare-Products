@@ -1,7 +1,7 @@
 # Predictive Analysis on Healthcare Products
 
 Healthcare products forecasting is a novel area of forecasting and a valuable tool for predicting future demands for health products and its needs. 
-The aim of the project is to forecast sales of healthcare products from history data in Microsoft Power BI, using ARIMA forecast model.
+The aim of the project is to forecast sales of healthcare products based on history data in Microsoft Power BI, using ARIMA forecast model.
 
 
 ### Predictive Analytics
@@ -17,7 +17,7 @@ The aim of the project is to forecast sales of healthcare products from history 
 - It aims to provide interactive visualizations and business intelligence capabilities with an interface simple enough for end users to create their own reports and dashboards.
 
 <p align="center">
-  <img src="https://www.saviantconsulting.com/images/blog/8-major-benefits-of-microsoft-power-bi-infographic.jpg" width="400">
+  <img src="https://user-images.githubusercontent.com/56398068/89803819-f4d9c300-db50-11ea-9e18-57bec3ca600f.png" width="400">
 </p>
 
 ### ARIMA Model
