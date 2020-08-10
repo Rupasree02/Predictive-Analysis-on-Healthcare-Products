@@ -23,8 +23,8 @@ The aim of the project is to forecast sales of healthcare products from history 
 ### ARIMA Model
 
 - An ARIMA( AutoRegressive Integrated Moving Average) modal is a class of statistical models for analyzing and forecasting time series data.
-- It explicitly caters to a suite of standard structures in time series data, and as such provides a simple yet powerful method for making skillful time series forecasts. The     parameters of the ARIMA model are defined as follows:<br/>
-  p:  The number of lag observations included in the model, also  called the lag order.<br/><br/>
+- It explicitly caters to a suite of standard structures in time series data, and as such provides a simple yet powerful method for making skillful time series forecasts. The     parameters of the ARIMA model are defined as follows:<br/><br/>
+  p:  The number of lag observations included in the model, also  called the lag order.<br/>
   d:  The number of times that the raw observations are differenced,  also called the 	degree of differencing.<br/>
   q:  The size of the moving average window, also called the order of  moving average.<br/><br/>
 - Autoregressive model (AR) are based on the assumption that each value of the time series depends only on the weighed sum of the product of the previous values and the           regression coefficient.
