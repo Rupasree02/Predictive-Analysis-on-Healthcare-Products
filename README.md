@@ -10,6 +10,5 @@ The aim of the project is to forecast sales of healthcare products from history 
 - In simple terms, predictive analytics is the process of learning from historical data to make predictions about future demand and this helps for executive management to take the   decisions  for improving their marketing & promotion strategies of health care products.
 - Predictive Forecast demand helps to balance the Supply & budget plan to avoid over stocks in inventory.
 - It helps to understand overall business strategy of company by country/division/reginal area wise to improve their sales.
-*/
 
 
