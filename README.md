@@ -93,6 +93,10 @@ I have use matplotlib library to plot the graph of sales distribution, the code 
 
 ### Autocorrelations in Time Series Data
 
+Autocorrelation is a type of serial dependence. Specifically, autocorrelation is when a time series is linearly related to a lagged version of itself. By contrast, correlation is simply when two independent variables are linearly related.<br/>
+One of the first steps in any data analysis is performing regression analysis. However, one of the assumptions of regression analysis is that the data has no autocorrelation. This can be frustrating because if you try to do a regression analysis on data with autocorrelation, then your analysis will be misleading.<br/>
+In order to check if autocorrelations exist we do this, I have done this using R Visual by importing forcast & tseries libraries. The code for this is in Code File.<br/>
+
 <p align="center">
   <img src="https://user-images.githubusercontent.com/56398068/89785087-702e7b00-db37-11ea-845c-5e28b677a065.png" width="550">
 </p>
