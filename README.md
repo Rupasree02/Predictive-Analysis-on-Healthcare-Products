@@ -11,4 +11,10 @@ The aim of the project is to forecast sales of healthcare products from history 
 - Predictive Forecast demand helps to balance the Supply & budget plan to avoid over stocks in inventory.
 - It helps to understand overall business strategy of company by country/division/reginal area wise to improve their sales.
 
+### Microsoft Power BI
 
+- Power BI is a business analytics service by Microsoft. 
+- It aims to provide interactive visualizations and business intelligence capabilities with an interface simple enough for end users to create their own reports and dashboards.
+
+
+![Advantages of using Power BI](https://www.saviantconsulting.com/images/blog/8-major-benefits-of-microsoft-power-bi-infographic.jpg)
