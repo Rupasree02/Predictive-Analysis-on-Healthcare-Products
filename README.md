@@ -31,3 +31,35 @@ The aim of the project is to forecast sales of healthcare products from history 
 - The basic idea of Moving-Average (MA) model is firstly finding the mean for a specified set of values and then using it to forecast the next period and correcting for any       mistakes made in the last few forecasts.
 - The AR and MA model can be mixed and, provide a third class of general models called ARMA, a particular ARIMA (p,d,q) model. 
 
+### Python & R Visuals in Power BI
+
+- The Power BI service supports viewing and interacting with visuals created with R scripts & Python scripts.
+- Visuals created with R scripts & Python scripts, commonly called R visuals & Python visuals respectively.
+- It can present advanced data shaping and analytics such as forecasting, using the rich analytics and visualization power of R & Python.<br/><br/>
+For Python & R Code refer Code file.
+
+
+### Import/Load & Transform Data
+
+Import following data to Microsoft Power BI Desktop from the Data file.<br/>
+
++ Sales_History
++ Customer_Master_Data
++ Location_Master_Data
++ Product_Master_Data<br/>
+
+Tranform data accordingly to its type.
+
+
+### Model Data
+
+
+
+
+
+
+
+
+
+
+
