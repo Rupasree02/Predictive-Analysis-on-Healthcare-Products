@@ -104,10 +104,15 @@ In order to check if autocorrelations exist we do this, I have done this using R
 
 ### Sales Forecast
 
+Sales Forecast is done using ARIMA model since the data he doesn't have any sesonality to use SARIMA model, so we have to use ARIMA model which is an efficient algorithm for a time series data.<br/>
+Here i have used R visual to forecast sales of healthcare products for 12 months, which can be seen here in the image.<br/>
+the R code is given in Code File.
+
 <p align="center">
   <img src="https://user-images.githubusercontent.com/56398068/89785142-8a685900-db37-11ea-86ea-86a705811658.png" width="550">
 </p>
-
+<br/>
+After this, we can link the Power BI Desktop file to Power BI Service to build Dashboard & also can share them.
 
 ### Benefits of Forecasting Healthcare Products Sales Data
 
@@ -118,17 +123,3 @@ In order to check if autocorrelations exist we do this, I have done this using R
 - Can plan the manufacturing health care products & external procurement based on country/division/region demand and Plan the resources availability.
 - Finance point of you,  can prepare budget Plan based on demand & supply.
 - Analytics & Dashboards will help to understand the business strategy of sales & marketing  and  to take right decisions easily to avoid over budgets and improve company revenue.
-
-
-
-
-
-
-
-
-
-
-
-
-
-
