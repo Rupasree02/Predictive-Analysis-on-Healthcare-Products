@@ -56,12 +56,16 @@ Tranform data accordingly to its type.
 
 In the Relationship tab, you can see the relationship between data sources. When you add multiple data sources to Power BI visualization, the tool automatically tries to detect the relationship between the columns. When you navigate to the Relationship tab, you can view the relationship. You can also create a Relationship between the columns using Create Relationships option.<br/>
 
+Here the relationship between tables is called 'Star Schema'. Star schema is a mature modeling approach widely adopted by relational data warehouses. It requires modelers to classify their model tables as either dimension or fact. In this case the fact table is the Actual Sales dats & other tables are its dimension tables (Customer, Product & Location).<br/>
+
 <p align="center">
   <img src="https://user-images.githubusercontent.com/56398068/89784477-5e98a380-db36-11ea-835d-2019e37fc669.png" width="550">
 </p>
 
 
-### Dashboard Analytics
+### Analysing Data & Creating Reports
+
+Analyse data & create following visualizations to understand the sales distribution vs diffrent dimentions like product wise, customer wise, etc.<br/>
 
 <p align="center">
   <img src="https://user-images.githubusercontent.com/56398068/89784703-bafbc300-db36-11ea-851c-b9851a8d49ef.png" width="550">
@@ -70,12 +74,17 @@ In the Relationship tab, you can see the relationship between data sources. When
 
 ### Geographical Demand Distribution
 
+Analyse Sales geographicaly using ArcGIS Map Visual or any Map visual in Power BI as shown below.<br/>
+
 <p align="center">
   <img src="https://user-images.githubusercontent.com/56398068/89784895-1b8b0000-db37-11ea-99a7-05583adf3b50.png" width="550">
 </p>
 
 
 ### Sales History Distribution
+
+The Sales history distribution by month & date is shown using Python Visual. It can be further shown according to customer id using a sclicer, which is shown in the image.
+I have use matplotlib library to plot the graph of sales distribution, the code for this is attached in Code File.<br/>
 
 <p align="center">
   <img src="https://user-images.githubusercontent.com/56398068/89784980-3d848280-db37-11ea-8ab8-117be9c58f36.png" width="550">
