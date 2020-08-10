@@ -39,7 +39,7 @@ The aim of the project is to forecast sales of healthcare products based on hist
 For Python & R Code refer Code file.
 
 
-### Import/Load & Transform Data
+### Extract, Tranform & Load Data
 
 To add a data source, go to the Get data option. Then, select the data source you want to connect and click the Connect button.<br/>
 Connect to following data from the Data file.<br/>
