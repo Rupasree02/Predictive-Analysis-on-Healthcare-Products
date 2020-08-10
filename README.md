@@ -5,7 +5,7 @@ The aim of the project is to forecast sales of healthcare products from history 
 
 
 ### Predictive Analytics
-/*
+
 - Predictive analytics uses statistical techniques (Machine learning algorithms) to determine patterns and predict future outcomes by utilizing information from large data sets. - - There is a wealth of health data which could be analyzed to help forecast demand for health care products.
 - In simple terms, predictive analytics is the process of learning from historical data to make predictions about future demand and this helps for executive management to take the   decisions  for improving their marketing & promotion strategies of health care products.
 - Predictive Forecast demand helps to balance the Supply & budget plan to avoid over stocks in inventory.
