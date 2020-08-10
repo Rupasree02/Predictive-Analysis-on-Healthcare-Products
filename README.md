@@ -68,7 +68,7 @@ Here the relationship between tables is called 'Star Schema'. Star schema is a m
 Analyse data & create following visualizations to understand the sales distribution vs diffrent dimentions like product wise, customer wise, etc.<br/>
 
 <p align="center">
-  <img src="https://user-images.githubusercontent.com/56398068/89784703-bafbc300-db36-11ea-851c-b9851a8d49ef.png" width="550">
+  <img src="https://user-images.githubusercontent.com/56398068/89784703-bafbc300-db36-11ea-851c-b9851a8d49ef.png" width="700">
 </p>
 
 
@@ -77,7 +77,7 @@ Analyse data & create following visualizations to understand the sales distribut
 Analyse Sales geographicaly using ArcGIS Map Visual or any Map visual in Power BI as shown below.<br/>
 
 <p align="center">
-  <img src="https://user-images.githubusercontent.com/56398068/89784895-1b8b0000-db37-11ea-99a7-05583adf3b50.png" width="550">
+  <img src="https://user-images.githubusercontent.com/56398068/89784895-1b8b0000-db37-11ea-99a7-05583adf3b50.png" width="700">
 </p>
 
 
@@ -87,7 +87,7 @@ The Sales history distribution by month & date is shown using Python Visual. It 
 I have use matplotlib library to plot the graph of sales distribution, the code for this is attached in Code File.<br/>
 
 <p align="center">
-  <img src="https://user-images.githubusercontent.com/56398068/89784980-3d848280-db37-11ea-8ab8-117be9c58f36.png" width="550">
+  <img src="https://user-images.githubusercontent.com/56398068/89784980-3d848280-db37-11ea-8ab8-117be9c58f36.png" width="700">
 </p>
 
 
@@ -98,7 +98,7 @@ One of the first steps in any data analysis is performing regression analysis. H
 In order to check if autocorrelations exist we do this, I have done this using R Visual by importing forcast & tseries libraries. The code for this is in Code File.<br/>
 
 <p align="center">
-  <img src="https://user-images.githubusercontent.com/56398068/89785087-702e7b00-db37-11ea-845c-5e28b677a065.png" width="550">
+  <img src="https://user-images.githubusercontent.com/56398068/89785087-702e7b00-db37-11ea-845c-5e28b677a065.png" width="700">
 </p>
 
 
@@ -109,7 +109,7 @@ Here i have used R visual to forecast sales of healthcare products for 12 months
 the R code is given in Code File.
 
 <p align="center">
-  <img src="https://user-images.githubusercontent.com/56398068/89785142-8a685900-db37-11ea-86ea-86a705811658.png" width="550">
+  <img src="https://user-images.githubusercontent.com/56398068/89785142-8a685900-db37-11ea-86ea-86a705811658.png" width="700">
 </p>
 <br/>
 After this, we can link the Power BI Desktop file to Power BI Service to build Dashboard & also can share them.
